@@ -1,2 +1,2 @@
-<p>My skills</p>
+<h1>My skills</h1>
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
