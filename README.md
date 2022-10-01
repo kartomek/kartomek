@@ -1,3 +1,5 @@
+ ![kartomek](kartomek.gif)
+ 
 - 🔭 I’m currently working on **Photorate**
 
 - 🌱 I’m currently learning **TypeScript**
