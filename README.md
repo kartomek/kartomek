@@ -1,4 +1,4 @@
-<p>
+<p align="left">
   
 - 🔭 I’m currently working on **Photorate**
 
