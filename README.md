@@ -1,4 +1,8 @@
+ <p align="center">
+ 
  ![kartomek](kartomek.gif)
+
+</p>
  
 - 🔭 I’m currently working on **Photorate**
 
